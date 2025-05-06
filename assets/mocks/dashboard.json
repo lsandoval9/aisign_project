@@ -1,0 +1,8 @@
+{
+  "userName": "AiSign User",
+  "greeting": "Good Morning",
+  "notifications": [
+    {"id": "notif1", "message": "John Doe signed 'Contract Agreement Q3'", "isRead": false, "type": "signature_received"},
+    {"id": "notif2", "message": "Your 'NDA for Project Phoenix' is due in 2 days", "isRead": true, "type": "reminder"}
+  ]
+}
