@@ -244,10 +244,6 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
         Expanded(child: Divider(color: Colors.grey.shade300)),
         Padding(
           padding: const EdgeInsets.symmetric(horizontal: 12.0),
-          child: Text(
-            'Or use E-mail credential',
-            style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
-          ),
         ),
         Expanded(child: Divider(color: Colors.grey.shade300)),
       ],
